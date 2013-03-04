@@ -1,4 +1,4 @@
-super-kids
+Super Kids - The Ultimate Adventure
 ==========
 
 CS673 Project
